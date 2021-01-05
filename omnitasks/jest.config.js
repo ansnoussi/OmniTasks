@@ -1,3 +1,7 @@
 module.exports = {
-  projects: ['<rootDir>/apps/omnitasks', '<rootDir>/apps/api'],
+  projects: [
+    '<rootDir>/apps/omnitasks',
+    '<rootDir>/apps/api',
+    '<rootDir>/apps/omnitasks-mobile',
+  ],
 };
