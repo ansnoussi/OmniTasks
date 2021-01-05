@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@omnitasks/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@omnitasks/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@omnitasks/theme": ["libs/theme/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
